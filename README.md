@@ -41,7 +41,7 @@ Producto en producción desde 2026 sirviendo a desarrolladoras solares, consulto
 
 ### Sobre
 
-Industrial Civil Engineer con foco en mercados eléctricos, regulación tarifaria y autoconsumo. Antes de Peak Value trabajé en análisis de proyectos energéticos y desarrollo de modelos para inversiones en generación distribuida.
+Ingeniero Civil Mecánico con mención en Energía, MBA en Mercados Eléctricos por la Technische Universität Berlin (TU Berlin). Foco en regulación tarifaria, generación distribuida y modelamiento financiero de proyectos energéticos.
 
 Si te interesa lo que hago o querés colaborar:
 
