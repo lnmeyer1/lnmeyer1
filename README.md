@@ -2,7 +2,7 @@
 
 **Founder & CTO de [Peak Value](https://peakvalue.cl)** — plataforma SaaS de inteligencia de datos para el mercado eléctrico chileno.
 
-Construyo herramientas que convierten datos públicos fragmentados en decisiones accionables: ahorro energético, dimensionamiento de proyectos de autoconsumo y benchmarking tarifario para clientes libres del Sistema Eléctrico Nacional (SEN).
+Estoy construyendo Peak Value para darle a cualquier empresa consumidora o Cliente Libre (no residencial) de Chile lo que hoy demanda semanas de trabajo y consultorías costosas: velocidad de segundos, cobertura completa (cada barra de retiro, cada concepto de pago oficial) y precisión absoluta en el desarrollo, dimensionamiento y evaluación de proyectos de autoconsumo. Sin muestras, sin estimaciones, sin Excels artesanales — sobre datos oficiales del Coordinador Eléctrico Nacional.
 
 ---
 
