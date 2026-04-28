@@ -43,6 +43,8 @@ Producto en producción desde 2026 sirviendo a desarrolladoras solares, consulto
 
 Ingeniero Civil Mecánico con mención en Energía, MBA en Mercados Eléctricos por la Technische Universität Berlin (TU Berlin). Foco en regulación tarifaria, generación distribuida y modelamiento financiero de proyectos energéticos.
 
+Antes de Peak Value trabajé en análisis de proyectos energéticos, desarrollo de modelos para negociaciones de PPAs y en comercialización de energía.
+
 Si te interesa lo que hago o querés colaborar:
 
 - **Web**: [peakvalue.cl](https://peakvalue.cl)
