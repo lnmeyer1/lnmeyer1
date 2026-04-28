@@ -10,7 +10,7 @@ Peak Value le da al mercado eléctrico de Chile algo único que antes no existí
 
 [**Peak Value**](https://peakvalue.cl) es la primera plataforma de Chile que integra, en un solo lugar:
 
-- Demanda horaria real de **2.700+ clientes libres** del SEN (+5.700 combinaciones cliente + barra de retiro)
+- Demanda horaria real de 2.700+ clientes libres del SEN (**+5.700 combinaciones cliente + barra de retiro**)
 - Tarifas oficiales por componente (energía, peajes Tx/Dx, SSCC, Pagos Laterales, CSP, MPC, PNCP)
 - Irradiancia satelital PVGIS para evaluación de proyectos solares
 - Optimizador financiero de plantas fotovoltaicas con BESS (modelo bolsa, identidad VAN sum-of-parts)
