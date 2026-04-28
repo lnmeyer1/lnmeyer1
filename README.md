@@ -2,7 +2,7 @@
 
 **Founder & CTO de [Peak Value](https://peakvalue.cl)** — plataforma SaaS de inteligencia de datos para el mercado eléctrico chileno.
 
-Peak Value le da a las desarrolladoras de autoconsumo en Chile algo que antes no existía: la posibilidad de evaluar cualquier proyecto, sobre cualquier empresa consumidora y Cliente Libre del país, en segundos y con precisión absoluta. Las desarrolladoras aceleran su cantidad de proyectos y maximizan su locación de capital; las industrias y empresas reducen sus costos y aceleran su descarbonización. Mayor transparencia y la asimetría de información en el mercado eléctrico chileno se acaba.
+Peak Value le da al mercado eléctrico de Chile algo único que antes no existía: la posibilidad de evaluar cualquier proyecto de autoconsumo, sobre cualquier empresa consumidora y Cliente Libre del país, en segundos y con precisión absoluta. Las desarrolladoras aceleran su cantidad de proyectos y maximizan su locación de capital; las industrias y empresas reducen sus costos y aceleran su descarbonización. Mayor transparencia y la asimetría de información en el mercado eléctrico chileno se acaba.
 
 ---
 
